@@ -1,4 +1,8 @@
 Link para Download: https://git-scm.com/downloads
 O git bash é um terminal extendido para o otimizar o git
 
-Enviar arquivos/sincronizar "git add ." e "git commit -m "Inclusão das Anotações do Curso de Git/Github"
+Enviar arquivos/sincronizar 
+
+# 1 "git add ." 
+# 2 "git commit -m "Inclusão das Anotações do Curso de Git/Github"
+# 3 "git push origin main"
